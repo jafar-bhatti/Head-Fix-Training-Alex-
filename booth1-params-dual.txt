@@ -1,0 +1,2 @@
+boothID,comport,reward_duration(s),debounce(ms),device,channels,samplerate,filterfile,amplification
+booth1,COM4,.07,1000,Lynx E44,[1 2],192e3,booth1-220221-filter-192kHz,10/11,false
